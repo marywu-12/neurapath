@@ -1,8 +1,8 @@
 # Site settings
-title: CareMatch
+title: NeuraPath
 description: 'Connecting families with the right caregivers.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
-baseurl: "/carematch" # the subpath of your site, e.g. /blog
+baseurl: "/neurapath" # the subpath of your site, e.g. /blog
 url: "https://marywu-12.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /assets/img/logo.png
 logo-icon: ""
@@ -23,9 +23,9 @@ night_mode: "off"
 highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code highlighter if needed
 
 # Author settings
-author: CareMatch # add your name
+author: NeuraPath # add your name
 author-pic: logo.png
-about-author: CareMatch helps families find trustworthy, well-matched caregivers.
+about-author: NeuraPath helps families find trustworthy, well-matched caregivers.
 
 # Contact links
 email: "" # Add your Email address
